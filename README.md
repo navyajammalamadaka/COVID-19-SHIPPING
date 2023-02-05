@@ -10,9 +10,9 @@ shipped (imports and exports) in different type of vessels in the world. It has 
 activity, earnings, and market trends.
 
 # Questions to Answer:
-• Which regions exported the most?
-• Which regions experienced higher imports?
-• What types of vessels were mostly utilized?
-• Was there specific demand for a certain commodity and therefore vessel type?
-• What were the market reactions (sales, idle, orderbook, spot freight rates)?
-• Where to invest next
+1. Which regions exported the most?
+2. Which regions experienced higher imports?
+3. What types of vessels were mostly utilized?
+4. Was there specific demand for a certain commodity and therefore vessel type?
+5. What were the market reactions (sales, idle, orderbook, spot freight rates)?
+6. Where to invest next
