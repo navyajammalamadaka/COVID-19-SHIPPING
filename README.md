@@ -1,8 +1,8 @@
 # COVID-19-SHIPPING
 
-# Project Title: Impact of COVID-19 on Shipping Industry
+Project Title: Impact of COVID-19 on Shipping Industry
 
-# Focus Industry: Shipping Industry/ Ship Owner
+Focus Industry: Shipping Industry/ Ship Owner
 
 # Data Set and Its Description: 
 The dataset consists of data related to differ type of dry and wet commodities that are 
